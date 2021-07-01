@@ -14,3 +14,9 @@ Instructions:-
 - you can't go to next question if you not answer the current question.
 - from quiz app you can show the high scores.
 
+Quiz App Structure(pages):-
+- home page(about,instruction)
+- login page(entering username)
+- quiz page(presents the question)
+- end page(presents total score of the quiz)
+- highscore page (presents the quiz's highscore)
